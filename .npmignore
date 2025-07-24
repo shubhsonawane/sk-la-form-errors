@@ -1,6 +1,14 @@
+# Ignore dependencies
 node_modules
 bun.lock
 *.log
+
+# Ignore test and dev files
 *.test.js
 dev/
 scripts/
+
+# Optional: Ignore version control or configs
+.git
+.gitignore
+.vscode
