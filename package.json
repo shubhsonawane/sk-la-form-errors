@@ -1,0 +1,15 @@
+{
+  "name": "sk-la-form-errors",
+  "version": "1.0.0",
+  "description": "A helper for showing Laravel form validation errors in Blade using JS (Axios, Fetch, jQuery)",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.min.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": ["laravel", "blade", "form", "validation", "errors", "axios", "fetch", "jquery"],
+  "author": "Shubham Sonawane",
+  "license": "MIT"
+}
